@@ -1,0 +1,8 @@
+ex01-closures.js
+    let result = hidden(3);
+
+ex02-closures.js
+    let result = hidden(2); 
+
+ex03-closures.js
+    let result = jumble(2);
